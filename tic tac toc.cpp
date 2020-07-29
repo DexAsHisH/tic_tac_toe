@@ -6,7 +6,7 @@ char winner;
 bool game_over = false;
 void design()
 {
-    cout << "********TIC TAC TOE********" << endl
+    cout << "TIC TAC TOE" << endl
          << endl;
 
     cout << " " << pos[0][0] << " "
